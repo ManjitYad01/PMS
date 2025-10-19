@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013689779837",
+    "project_id": "practicalmanagementapp",
+    "storage_bucket": "practicalmanagementapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013689779837:android:52f31b3e6695058f831314",
+        "android_client_info": {
+          "package_name": "com.example.practical_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72reg8F1TIVA5umjjkArQwvi07NdeDbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
